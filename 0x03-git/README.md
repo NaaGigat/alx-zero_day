@@ -1,1 +1,1 @@
-Consisstency is key!
+Consistency is key!
